@@ -10,13 +10,12 @@ una pagina sobre mi
         </div>  
        </header>
         
-          <div class="yo">
+          
          <h1>Sobre mi</h1> 
          <p>Edad:14</p> 
           <p>Nombre:Reynier alberto vallejo cobis</p>
           <p>Discord:Reyniev#2747</p>
           <p>Pais:Venezuela</p>
           <p>Juego Favorito:Gta 5</p>
-        </div>
 </body>
 </html>
