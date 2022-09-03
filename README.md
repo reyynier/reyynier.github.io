@@ -9,7 +9,7 @@ una pagina sobre mi
             <p>Estoy aprendiendo a hacer paginas web</p>
                     <h1>Sobre mi</h1> 
          <p>Edad:14</p> 
-          <p>Nombre:Reynier alberto vallejo cobis</p>
+          <p>Nombre:Reynier vallejo cobis</p>
           <p>Discord:Reyniev#2747</p>
           <p>Pais:Venezuela</p>
           <p>Juego Favorito:Gta 5</p>
