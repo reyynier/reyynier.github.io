@@ -1,6 +1,7 @@
 # reyynier.github.io
 una pagina sobre mi
 
+<html>
 <body>
           <header>
           <div class="imagen"><img src="https://scontent.fmar4-1.fna.fbcdn.net/v/t1.6435-9/180924814_863607014587063_8180373074061021175_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=9BnBvaqKblgAX_n9Qa2&tn=QPrqV7TyMf-anunv&_nc_ht=scontent.fmar4-1.fna&oh=00_AT-50gVeXN4JGcMWHDT2iBBai7C0esqaRncryjmlY-m-jg&oe=63386202" alt="reytero" width="250px"></div>
@@ -21,4 +22,4 @@ una pagina sobre mi
           
     
 </body>
-
+          </html>
