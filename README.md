@@ -17,8 +17,6 @@ una pagina sobre mi
                     <p>Pais:Venezuela</p>
                     <p>Juego Favorito:Gta 5</p>
                     </div>
-      
-        </DIV>
        </header>
                 
           
